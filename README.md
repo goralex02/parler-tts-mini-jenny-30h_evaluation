@@ -9,6 +9,8 @@ aagorbuntsov@edu.hse.ru
 
 +79167127207
 
+Ноутбук с решением parler_tts_test_solution.ipynb, в папке img графики, в папке results_csv подробные результаты для каждого датасета и каждой аудиозаписи в соответсвующих файлах.
+
 Лучше запускать из Google Colab, весь код выполняется на бесплатной версии T4 примерно 50 минут.
 
 https://colab.research.google.com/drive/1Dslguw2_xUFCBtxVSi5_o7kvyfPpOpHE?usp=sharing
